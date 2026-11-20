@@ -1,0 +1,22 @@
+# Binaries from go build
+/kolo-braid-starter
+/finished/finished
+*.exe
+.DS_Store
+
+# Local working notes
+design/
+
+# Claude Code personal files
+.claude/settings.local.json
+.claude/local/
+AGENTS.local.md
+CLAUDE.local.md
+
+# Secrets: private keys and environment files
+*.key
+.env
+.env.*
+.claude/
+AGENTS.md
+CLAUDE.md
